@@ -3,6 +3,7 @@ See how many times your password is hacked in a safe way. Python 3. requests pac
 
 
 We request frequently updated 'hacked passwords' data from  https://haveibeenpwned.com/Passwords
+
 The website itself uses SHA1 hash to store passwords.*(see below)
 
 
