@@ -1,5 +1,5 @@
 # safe_password_checker
-See how many times your password hacked in a safe way. Python 3. requests package needed.
+See how many times your is password hacked in a safe way. Python 3. requests package needed.
 
 
 We request frequently updated 'hacked passwords' data from  https://haveibeenpwned.com/Passwords
