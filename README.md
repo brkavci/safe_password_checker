@@ -14,6 +14,7 @@ The more times the password is hacked, more dangerous it is to use it. Anyway yo
 
 
 Why Hashes?(from author of the site)*
+
 Sometimes passwords are personally identifiable. Either they contain personal info (such as kids' names and birthdays) or they can even be email addresses. One of the most common password hints in the Adobe data breach (remember, they leaked hints in clear text), was "email" so you see the challenge here.
 
 Further to that, if I did provide all the passwords in clear text fashion then it opens up the risk of them being used as a source to potentially brute force accounts. Yes, some people will be able to sniff out the sources of a large number of them in plain text if they really want to, but as with my views on protecting data breaches themselves, I don't want to be the channel by which this data is spread further in a way that can do harm. I'm hashing them out of "an abundance of caution" and besides, for the use cases I'm going to talk about shortly, they don't need to be in plain text format anyway.
